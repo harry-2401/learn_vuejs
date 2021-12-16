@@ -1,24 +1,13 @@
 # vue_learn
 
 ## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Firtst thing you need install docker 
+### With Ubuntu: Follow link
+https://docs.docker.com/engine/install/ubuntu/
+https://docs.docker.com/compose/install/
+### With windows: Follow link
+https://docs.docker.com/engine/install/
+https://docs.docker.com/compose/install/
+### How to start app?
+### Run commands: 
+docker-compose up
